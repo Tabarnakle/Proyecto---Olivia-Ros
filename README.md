@@ -1,2 +1,2 @@
-# Proyecto---Olivia-Ros
+# olivia-ros
 Proyecto de Bootstrap para bootcamp
