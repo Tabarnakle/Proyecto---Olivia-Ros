@@ -4,3 +4,8 @@ header {
     background-size: cover;
     background-position: left;
 }
+.card img {
+    width: 100%;
+    height: 50%;
+    
+}
